@@ -2,13 +2,13 @@
 
 Personal portfolio website for **Suthinee Supattrapan**, Senior Project Manager based in Tokyo, Japan. A single-page site presenting delivery approach, experience, projects, and perspectives on leading enterprise software delivery.
 
-🔗 **Live site:** https://nunee-s.github.io/&lt;repo-name&gt;/
+🔗 **Live site:** https://nunee-s.github.io/portfolio/
 
 ---
 
 ## About
 
-A minimal, premium portfolio built to read like the site of a senior technology leader rather than a résumé. It emphasizes *how I think, lead, and deliver business value* across FinTech, financial services, and digital transformation.
+A minimal portfolio built to read like the site of a senior technology leader rather than a résumé. It emphasizes *how I think, lead, and deliver business value* across FinTech, financial services, and digital transformation.
 
 **Sections:** About · How I Work · Perspectives · Experience · Projects · Skills · Certifications · Languages · Why Work With Me · Outside of Work · Contact
 
