@@ -10,7 +10,7 @@ Personal portfolio website for **Suthinee Supattrapan**, Senior Project Manager 
 
 A minimal, premium portfolio built to read like the site of a senior technology leader rather than a résumé. It emphasizes *how I think, lead, and deliver business value* across FinTech, financial services, and digital transformation.
 
-**Sections:** About · How I Work · Perspectives · Experience · Projects · Skills · Certifications · Languages · Why Work With Me · Outside of Work · Contact
+**Sections:** About · How I Work · What I Do · Experience · Projects · How I Approach Complex Projects (Case Studies) · Perspectives · Skills · Technology Ecosystem · Current Focus · Certifications · Languages · Working With Me · Outside of Work · Contact
 
 ## Features
 
@@ -47,4 +47,4 @@ Hand-crafted HTML, CSS, and vanilla JavaScript. No build step, no framework runt
 
 ---
 
-© Suthinee Supattrapan. Built with passion for great products.
+© Suthinee Supattrapan. Designed & built by Suthinee Supattrapan.
